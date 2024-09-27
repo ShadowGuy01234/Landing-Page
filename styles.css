@@ -7,6 +7,11 @@ body {
     padding: 0px;
 }
 
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+}
+
 ul {
     list-style-type: none;
     margin: 0px;
@@ -72,4 +77,41 @@ ul {
     border-radius: 15px;
     border: none;
     cursor: pointer;
+}
+
+.info-header {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.illustration {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.snippet {
+    width: 150px;
+    height: 160px;
+    border: #3882f6 solid 4px;
+    border-radius: 20px;
+    margin: 0px;
+}
+
+.i-text {
+    max-width: 200px;
+}
+
+.i1, .i2, .i3, .i4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 200px;
 }
