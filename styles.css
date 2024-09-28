@@ -140,3 +140,50 @@ ul {
     font-weight: 900;
     margin-left: 400px;
 }
+
+.action {
+    background-color:#3882f6;
+}
+
+.action {
+    margin: 100px;
+    border-radius: 20px;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.action .text1 {
+    margin-left: 4px;
+    font-weight: 900;
+    color: #e5e7eb;
+    font-size: 20px;
+    margin: 0px 0px 0px 4px;
+}
+
+.action .text2 {
+    
+    color: #e5e7eb;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.action-button {
+    color: #f9faf8;
+    font-weight: 900;
+    font-size: 15px;
+    background-color: transparent;
+    height: 45px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 15px;
+    border: solid 3px #f9faf8;
+    cursor: pointer;
+}
+
+.action-txt {
+    display: flex;
+    flex-direction: column;
+}
+
