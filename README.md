@@ -1,3 +1,10 @@
 # Landing-Page
 
-Hello! Greetings from me. I am currently working on a landing page as part of my submission for The Odin Project. While learning web development through this excellent resource, I'm applying the skills I've gained to build a clean and functional landing page. It’s an exciting opportunity to showcase my progress and put my newly acquired knowledge into practice.
+Hello! Greetings from me. I have built a landing page as part of my submission for The Odin Project. Through this excellent resource, I applied the skills I gained to create a clean and functional landing page. It was an exciting opportunity to showcase my progress and put my newly acquired knowledge into practice.
+
+
+
+
+
+
+
